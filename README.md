@@ -4,4 +4,4 @@ NPM     : 1006123456
 
 Kelas   : Z
 
-Hobi    : nyangkul
+Hobi    : nyuci tangan
